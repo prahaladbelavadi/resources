@@ -6,6 +6,7 @@ A comprehensive list of resources.
 
 - Computer Science:
 	- [A comprehensive list of university courses](https://github.com/belavadi/awesome-courses)
+	- [A self taught course in Computer Science](https://github.com/belavadi/computer-science)
 
 - Cryptography:
 	- [Cryptography for python developers](https://github.com/belavadi/cryptography)
@@ -21,3 +22,4 @@ A comprehensive list of resources.
 
 - Javascript:
 	- [You don't know JS](https://github.com/belavadi/You-Dont-Know-JS)
+	- [A list of resources to master Javascript development](https://github.com/belavadi/javascript-path)
