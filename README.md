@@ -17,5 +17,7 @@ A comprehensive list of resources.
 
 - Blockchain:
 	- [Build secure smart contracts using Solidity](https://github.com/belavadi/zeppelin-solidity) with [Open Zepellin Framework](https://openzeppelin.org/)
-                
-        
+	- [Mastering Bitcoin](https://github.com/belavadi/bitcoinbook)
+
+- Javascript:
+	- [You don't know JS](https://github.com/belavadi/You-Dont-Know-JS)
