@@ -17,9 +17,21 @@ A comprehensive list of resources.
 	- [Django Tutorials](https://tutorial.djangogirls.org/) by [Django Girls](https://djangogirls.org/)
 
 - Blockchain:
+
+> Solidity
 	- [Build secure smart contracts using Solidity](https://github.com/belavadi/zeppelin-solidity) with [Open Zepellin Framework](https://openzeppelin.org/)
+
+> Bitcoin
 	- [Mastering Bitcoin](https://github.com/belavadi/bitcoinbook)
+
+> Hyperledger
 	- [IBM blockchain 101 quick start guide for developers using bluemix](https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html)
+	- [Hyperledger Fabrics Docs](http://hyperledger-fabric.readthedocs.io/en/latest/)
+	- [Blockchain as a Service with Hyperledger Cello](https://github.com/hyperledger/cello)
+	- [Enterprise Smart Contracts with Sawtooth](http://intelledger.github.io/)
+	
+> Misc:
+	- [Blockchain essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)
 - Javascript:
 	- [You don't know JS](https://github.com/belavadi/You-Dont-Know-JS)
 	- [A list of resources to master Javascript development](https://github.com/belavadi/javascript-path)
