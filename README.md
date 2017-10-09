@@ -35,3 +35,11 @@ A comprehensive list of resources.
 - Javascript:
 	- [You don't know JS](https://github.com/belavadi/You-Dont-Know-JS)
 	- [A list of resources to master Javascript development](https://github.com/belavadi/javascript-path)
+	
+	
+> Articles
+- [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+
+> Resources:
+- [Bitcore Guide to making bitcoin applications0 ](https://bitcore.io/guides/service-development/)
+- [Bitcore ECIES example](https://bitcore.io/api/ecies/)
