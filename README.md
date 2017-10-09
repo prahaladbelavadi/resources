@@ -43,3 +43,4 @@ A comprehensive list of resources.
 > Resources:
 - [Bitcore Guide to making bitcoin applications0 ](https://bitcore.io/guides/service-development/)
 - [Bitcore ECIES example](https://bitcore.io/api/ecies/)
+- [Generating ECDSA key pair](https://21.co/learn/21-lib-crypto/#generate-an-ecdsa-key-pair)
