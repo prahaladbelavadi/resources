@@ -44,3 +44,4 @@ A comprehensive list of resources.
 - [Bitcore Guide to making bitcoin applications0 ](https://bitcore.io/guides/service-development/)
 - [Bitcore ECIES example](https://bitcore.io/api/ecies/)
 - [Generating ECDSA key pair](https://21.co/learn/21-lib-crypto/#generate-an-ecdsa-key-pair)
+- [How To Create Token and Initial Coin Offering Contracts Using Truffle + OpenZeppelin](https://blog.zeppelin.solutions/how-to-create-token-and-initial-coin-offering-contracts-using-truffle-openzeppelin-1b7a5dae99b6)
