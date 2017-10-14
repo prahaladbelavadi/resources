@@ -41,6 +41,7 @@ A comprehensive list of resources.
 - [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
 > Resources:
+- [Miguel Dev Books](https://github.com/miguellgt/books)
 - [Bitcore Guide to making bitcoin applications0 ](https://bitcore.io/guides/service-development/)
 - [Bitcore ECIES example](https://bitcore.io/api/ecies/)
 - [Generating ECDSA key pair](https://21.co/learn/21-lib-crypto/#generate-an-ecdsa-key-pair)
