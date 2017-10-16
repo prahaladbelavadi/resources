@@ -20,7 +20,11 @@ A comprehensive list of resources.
 
 > Solidity
 	- [Build secure smart contracts using Solidity](https://github.com/belavadi/zeppelin-solidity) with [Open Zepellin Framework](https://openzeppelin.org/)
-
+	- [Zastrin Solidity](https://www.zastrin.com)
+	- [Blockgeeks Solidity](https://blockgeeks.com/guides/how-to-learn-solidity/)
+	- [Learn solidity in X minutes](https://learnxinyminutes.com/docs/solidity/)
+	- [Solidity readthedocs.io](https://solidity.readthedocs.io/en/develop/)
+	
 > Bitcoin
 	- [Mastering Bitcoin](https://github.com/belavadi/bitcoinbook)
 
