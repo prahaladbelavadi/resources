@@ -51,3 +51,7 @@ A comprehensive list of resources.
 - [Generating ECDSA key pair](https://21.co/learn/21-lib-crypto/#generate-an-ecdsa-key-pair)
 - [How To Create Token and Initial Coin Offering Contracts Using Truffle + OpenZeppelin](https://blog.zeppelin.solutions/how-to-create-token-and-initial-coin-offering-contracts-using-truffle-openzeppelin-1b7a5dae99b6)
 - [Crypto JS tutorial for Dummies](https://www.davidebarranca.com/2012/10/crypto-js-tutorial-cryptography-for-dummies/)
+
+*** 
+This repository is depreceated and a subsequent list of resources can be found [here](https://github.com/prahaladbelavadi/info/resources)
+
