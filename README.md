@@ -53,5 +53,5 @@ A comprehensive list of resources.
 - [Crypto JS tutorial for Dummies](https://www.davidebarranca.com/2012/10/crypto-js-tutorial-cryptography-for-dummies/)
 
 *** 
-This repository is depreceated and a subsequent list of resources can be found [here](https://github.com/prahaladbelavadi/info/resources)
+This repository is depreceated and a subsequent list of resources can be found [here](https://github.com/prahaladbelavadi/info/tree/master/resources)
 
